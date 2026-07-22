@@ -1,6 +1,4 @@
-Aqui está o arquivo **`README.md`** completo, atualizado e adaptado à estrutura real do seu projeto (utilizando `main.py` em vez de `app.py`, além de contemplar o uso de arquivos de configuração modernos como `pyproject.toml` e `uv.lock`):
 
-```markdown
 # API de Gerenciamento de Tarefas (Flask API)
 
 Esta é uma API RESTful simples desenvolvida em **Python** utilizando o microframework **Flask**. Ela permite realizar operações de CRUD (Criar, Ler, Atualizar e Deletar) para o gerenciamento de tarefas, utilizando uma lista em memória como banco de dados temporário.
