@@ -1,7 +1,8 @@
 
 # API de Gerenciamento de Tarefas (Flask API)
 
-Esta é uma API RESTful simples desenvolvida em **Python** utilizando o microframework **Flask**. Ela permite realizar operações de CRUD (Criar, Ler, Atualizar e Deletar) para o gerenciamento de tarefas, utilizando uma lista em memória como banco de dados temporário.
+Esta é uma API RESTful simples desenvolvida em **Python** utilizando o microframework **Flask**. 
+Ela permite realizar operações de CRUD (Criar, Ler, Atualizar e Deletar) para o gerenciamento de tarefas, utilizando uma lista em memória como banco de dados temporário.
 
 ---
 
@@ -128,3 +129,4 @@ curl [http://127.0.0.1:5000/tasks](http://127.0.0.1:5000/tasks)
 ```
 
 ```
+Aluna Gleice Avelino - Rocketseat
