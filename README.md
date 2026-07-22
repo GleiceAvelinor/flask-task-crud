@@ -1,4 +1,6 @@
+Aqui está o seu arquivo **`README.md`** atualizado com a inclusão do **Flasgger (Swagger)** nas tecnologias e a referência à autoria no final:
 
+```markdown
 # API de Gerenciamento de Tarefas (Flask API)
 
 Esta é uma API RESTful simples desenvolvida em **Python** utilizando o microframework **Flask**. 
@@ -10,6 +12,7 @@ Ela permite realizar operações de CRUD (Criar, Ler, Atualizar e Deletar) para 
 
 * **Python**
 * **Flask**
+* **Flasgger** (Documentação interativa com Swagger UI)
 * **uv** (Gerenciador de dependências)
 
 ---
@@ -24,7 +27,7 @@ seu_projeto/
 ├── models/
 │   └── task.py         # Definição da classe Task
 ├── .gitignore          # Arquivos ignorados pelo Git
-├── main.py             # Arquivo principal da aplicação Flask
+├── app.py             # Arquivo principal da aplicação Flask
 ├── pyproject.toml      # Configuração e dependências do projeto
 ├── README.md           # Documentação do projeto
 ├── requirements.txt    # Lista de dependências
@@ -96,6 +99,14 @@ O servidor estará rodando em `http://127.0.0.1:5000/`.
 
 ---
 
+## 📚 Documentação da API (Swagger)
+
+Com a aplicação rodando, você pode acessar a documentação interativa da API através do navegador no endereço:
+
+* **Swagger UI:** `http://127.0.0.1:5000/apidocs/`
+
+---
+
 ## 📌 Endpoints da API
 
 | Método | Rota | Descrição | Corpo da Requisição (JSON) |
@@ -126,7 +137,10 @@ curl [http://127.0.0.1:5000/tasks](http://127.0.0.1:5000/tasks)
 
 ```
 
+---
+
+Aluna: Gleice Avelino - Rocketseat
+
 ```
 
 ```
-Aluna Gleice Avelino - Rocketseat
