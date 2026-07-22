@@ -1,4 +1,3 @@
-Aqui está o seu arquivo **`README.md`** atualizado com a inclusão do **Flasgger (Swagger)** nas tecnologias e a referência à autoria no final:
 
 ```markdown
 # API de Gerenciamento de Tarefas (Flask API)
